@@ -1,5 +1,5 @@
 # Portfolio
-### The app is currently responsive on PC and will soon be made responsive for phones as well.
+### The app is currently responsive on PC(Full Screen) and will soon be made responsive for phones as well.
 ## PORTFOLIO
 ![image](https://github.com/vlantonakos/Portfolio.version1/assets/107072477/ac75945e-1ca9-4b34-ba8e-d7385cfb9fac)
 ## HOME
