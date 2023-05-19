@@ -1,5 +1,6 @@
 # Portfolio
 ### The app is currently responsive on PC(Full Screen) and will soon be made responsive for phones as well.
+### You can check my portfolio here: portfolio-vlantonakos.vercel.app
 ## PORTFOLIO
 ![image](https://github.com/vlantonakos/Portfolio.version1/assets/107072477/ac75945e-1ca9-4b34-ba8e-d7385cfb9fac)
 ## HOME
